@@ -1,6 +1,6 @@
-# hero_store_app
+# E_store_app
 
-A new Flutter project.
+A Flutter-based e-commerce application that provides a seamless shopping experience with a beautiful UI and robust backend integration.
 
 ## Getting Started
 
