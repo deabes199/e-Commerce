@@ -2,7 +2,8 @@
 
 A Flutter-based e-commerce application that provides a seamless shopping experience with a beautiful UI and robust backend integration.
 
-## Getting Started
+## Features 
+** User Authentication:**
 
 This project is a starting point for a Flutter application.
 
